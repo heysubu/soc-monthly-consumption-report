@@ -373,10 +373,8 @@ A: Save as new file → Go to SheetTool → Change date → Reset all consumptio
 
 ## 📞 Contact
 
-For customization or questions:
-- [**GitHub**](https://github.com/heysubu)
-- **Email**: suubhamghadge@gmail.com
-- [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+- 🐙 [**GitHub**](https://github.com/heysubu)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
