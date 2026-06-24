@@ -371,10 +371,6 @@ A: Yes, password is 123 → Right-click sheet → Protect sheet
 **Q: How to copy for next month?**
 A: Save as new file → Go to SheetTool → Change date → Reset all consumption to zero → Save
 
-## 📞 Contact
-
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
 
 ## 📄 License
 
